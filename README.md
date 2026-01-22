@@ -3,22 +3,50 @@
 
 - Blog: [https://velog.io/@hwanghaesea](https://velog.io/@hwanghaesea/)
 
-안녕하세요.  
-데이터/AI 및 공학 분야를 공부하고 있는 대학생입니다.
+## Identity
 
-## Interests
-- Machine Learning / AI
-- Engineering & Problem Solving
+**Intelligent System Architect**  
+Designing, optimizing, and controlling the life cycle of complex systems
+through data, mathematics, and physical control.
 
-## Currently Studying
-- ADsP (데이터 분석 준전문가)
-- Python for data analysis
-- University coursework
+I aim to go beyond writing code or maintaining machines.
+My focus is on pushing system performance to its limits by integrating
+**Industrial Engineering (optimization & strategy)** with
+**Electrical & Electronic Engineering (control & physical realization)**.
 
-## This GitHub
-이 저장소에는
-- 실습 코드
-- 프로젝트 결과물을 정리할 예정입니다.
+---
+
+## Core Axes
+
+### 1. Industrial Engineering — *Strategic Optimization*
+- Mathematical optimization (OR / AI)
+- Reliability & system lifetime trade-offs
+- Bottleneck analysis and value quantification
+- Defining *what* should be optimized and *why*
+
+### 2. Electrical & Electronic Engineering — *Physical Control*
+- Signal processing for system health monitoring
+- Control theory for real-world execution
+- Real-time decision-making under physical constraints
+- Translating optimal values into hardware actions
+
+### 3. Intersection — *PdM & System-Level Optimization*
+- Predictive Maintenance (PdM) grounded in physical understanding
+- Real-time optimization of cyber-physical systems
+- Digital Twin–based system design and control
+- Peak performance with predictive health management
+
+---
+
+## Goal
+
+To become a system-level engineer who:
+- Sets optimal objectives mathematically
+- Executes them precisely through physical control
+- Maximizes performance without sacrificing reliability
+
+*Examples: intelligent mobility systems, robotics, energy management systems.*
+
 <!--
 **hwanghaesea/hwanghaesea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
