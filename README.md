@@ -1,7 +1,7 @@
 # Haein Hwang
 ## Hi there 👋
 
-- Blog: [https://velog.io/@YOUR_ID](https://velog.io/@hwanghaesea/)
+- Blog: [https://velog.io/@hwanghaesea](https://velog.io/@hwanghaesea/)
 
 안녕하세요.  
 데이터/AI 및 공학 분야를 공부하고 있는 대학생입니다.
